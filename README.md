@@ -91,9 +91,3 @@ Model predicts:
 Result is displayed on the webpage.
 
 
-
-
-
-
-## 📂 Project Structure
-
